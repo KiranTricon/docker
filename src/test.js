@@ -1,12 +1,7 @@
-      
-      var a = {a:1, b:2};
+var a = { a: 1, b: 2 };
 
+var xyz = " test";
 
-
-      var xyz =  " test"; 
-
-
-      const sum = (a, b) => {
-        return a + b;
-    }
-    
+const sum = (a, b) => {
+  return a + b;
+};
